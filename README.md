@@ -1,33 +1,20 @@
-# Typescript React Redux Starter Project
+# Snjab
 
-Real World App React / Redux / Typescript Clean and Simple Architecture : Typescript React Redux Starter Project with redux-thunk hooks , fetch api
+Snjab is an application designed for managing hospital personnel. It provides tools to efficiently control and monitor staff activities within a healthcare facility.
 
 ## Project Details
 
-Build a simple React-Redux application which displays images from cat API. Here's the API :
-https://docs.thecatapi.com/api-reference/images/images-search
+This project involves building a React-Redux application with a clean and simple architecture using TypeScript, Redux-Thunk, and Fetch API.
 
-Example URL to fetch 10 cats with category hats:
-https://api.thecatapi.com/v1/images/search?limit=10&category_ids=1
-
-Example URL to fetch the categories:
-https://api.thecatapi.com/v1/categories
-
-The page is a simple app that loads a sidebar (drawer for react native) of all categories and displays 10 cat images in the main display.
-
-* All the categories are clickable - you can click on them and choose a different category
-* There is a button to load more cat images at the bottom, which will load 10 more cat
-images.
-* The app must be built with react-redux
-* Don't use any premade UI kit lib, write all styles purely, (StyledComponents library is
-highly recommended)
-* Aesthetics and clean code are important when building this small prototype.
-
-## Available Scripts
+## Getting Started
 
 In the project directory, you can run:
 
-### `npm start`
+### `yarn install`
+
+Installs all the dependencies required for the project.
+
+### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
