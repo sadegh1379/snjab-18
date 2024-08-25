@@ -1,0 +1,21 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "cSpell.words": [
+    "favicons",
+    "Fmea",
+    "Highcharts",
+    "jalaali",
+    "lalezar",
+    "notif",
+    "organisation",
+    "organisations",
+    "reduxjs",
+    "Swiper",
+    "webp",
+    "yekan"
+  ],
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  }
+}
